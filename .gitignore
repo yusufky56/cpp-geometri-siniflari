@@ -1,0 +1,15 @@
+# Derleme çıktıları
+*.exe
+*.o
+*.obj
+a.out
+build/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+*.user
+x64/
+Debug/
+Release/
