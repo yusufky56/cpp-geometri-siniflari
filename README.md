@@ -26,3 +26,7 @@ Visual Studio kullanıyorsanız `src` klasöründeki dosyaları boş bir C++ kon
 
 - π değeri kodda `3` olarak alınmıştır (`Daire::alan`, `Daire::cevre`).
 - `Ucgen::acilar` sonuçları radyan cinsindendir.
+
+## License
+
+[MIT](LICENSE)
